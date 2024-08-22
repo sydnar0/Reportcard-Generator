@@ -1,7 +1,7 @@
 # Reportcard-Generator
 App made with Tkinter to manage multiple students assignments and grades. User can recreate their grading system, edit students' grades and information, and generate a report card with GPA and personal comments.
 
-
+You might need to download Tkinter and Ast if it's not working.
 Sorry for the global variables. I made this a while ago for school.
 
 ***TUTORIAL:***
